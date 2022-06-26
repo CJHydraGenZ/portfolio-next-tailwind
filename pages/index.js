@@ -5,6 +5,7 @@ import Services from "./services";
 import Work from "./work";
 import Clients from "./clients";
 import Contact from "./contact";
+import Footer from "./footer";
 export default function Home() {
   return (
     <div>
@@ -22,6 +23,7 @@ export default function Home() {
       <Work />
       <Clients />
       <Contact />
+      <Footer />
     </div>
   );
 }
