@@ -5,6 +5,8 @@ const nextConfig = {
     loader: "akamai",
     path: "",
   },
+  basePath: "/portfolio-next-tailwind",
+  assetPrefix: "/portfolio-next-tailwind",
 };
 
 module.exports = nextConfig;
