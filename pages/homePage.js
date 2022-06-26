@@ -6,7 +6,7 @@ const HomePage = () => {
     <div className="flex justify-between text-center md:mx-20 md:pt-32 pt-28">
       <div className="w-3/4 h-96 shadow-xl rounded-full relative px-10 hidden md:block">
         <Image
-          src={`public/images/gw.JPG`}
+          src={`/images/gw.JPG`}
           alt="gw"
           layout="fill"
           objectFit="cover"
