@@ -7,11 +7,13 @@ const footer = () => {
       <h1 className="text-xl text-blue-900 mr-2">Made by</h1>
       <AiTwotoneHeart className="text-black" />
       <h1 className="text-xl text-blue-900 ml-2">
-        Vreated by{" "}
+        Created by{" "}
         <a
           href=""
           className="cursor-pointer font-semibold text-indigo-900 hover:text-black"
-        ></a>
+        >
+          Cahya
+        </a>
       </h1>
     </div>
   );
