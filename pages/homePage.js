@@ -1,12 +1,12 @@
 import React from "react";
 import Image from "next/image";
-import heroImage from "public/images/gw.JPG";
+
 const HomePage = () => {
   return (
     <div className="flex justify-between text-center md:mx-20 md:pt-32 pt-28">
       <div className="w-3/4 h-96 shadow-xl rounded-full relative px-10 hidden md:block">
         <Image
-          src={heroImage}
+          src={`${process.env.NEXT_PUBLIC_BASEPART}public/images/gw.JPG`}
           alt="gw"
           layout="fill"
           objectFit="cover"
