@@ -12,7 +12,7 @@ const work = () => {
         </h2>
 
         <div className="md:flex sm:flex-col md:flex-row justify-center items-center gap-10 mt-10">
-          <div className="rounded w-80 h-60 shadow-xl relative">
+          <div className="rounded w-80 h-60 shadow-xl relative my-6">
             <Image
               src="/images/1.png"
               alt="one"
@@ -21,7 +21,7 @@ const work = () => {
               className="p-2 rounded cursor-pointer"
             />
           </div>
-          <div className="rounded w-80 h-60 shadow-xl relative">
+          <div className="rounded w-80 h-60 shadow-xl relative my-6">
             <Image
               src="/images/2.png"
               alt="two"
@@ -30,7 +30,7 @@ const work = () => {
               className="p-2 rounded cursor-pointer"
             />
           </div>
-          <div className="rounded w-80 h-60 shadow-xl relative">
+          <div className="rounded w-80 h-60 shadow-xl relative my-6">
             <Image
               src="/images/3.png"
               alt="three"
@@ -41,7 +41,7 @@ const work = () => {
           </div>
         </div>
         <div className="md:flex sm:flex-col md:flex-row justify-center items-start md:gap-10 sm:pb-10 mt-10">
-          <div className="rounded w-80 h-60 shadow-xl relative">
+          <div className="rounded w-80 h-60 shadow-xl relative my-6">
             <Image
               src="/images/1.png"
               alt="one"
@@ -50,7 +50,7 @@ const work = () => {
               className="p-2 rounded cursor-pointer"
             />
           </div>
-          <div className="rounded w-80 h-60 shadow-xl relative">
+          <div className="rounded w-80 h-60 shadow-xl relative my-6">
             <Image
               src="/images/2.png"
               alt="two"
@@ -59,7 +59,7 @@ const work = () => {
               className="p-2 rounded cursor-pointer"
             />
           </div>
-          <div className="rounded w-80 h-60 shadow-xl relative">
+          <div className="rounded w-80 h-60 shadow-xl relative my-6">
             <Image
               src="/images/3.png"
               alt="three"
