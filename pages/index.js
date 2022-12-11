@@ -14,7 +14,7 @@ export default function Home() {
         <meta name="description" content="I Gede Cahya Ari Wibawa" />
         <link
           rel="icon"
-          href={`${process.env.NEXT_PUBLIC_BASEPART}/favicon.ico`}
+          href={`/favicon.ico`}
         />
       </Head>
       <Navbar />
