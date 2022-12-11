@@ -9,8 +9,7 @@ const HomePage = () => {
           <Image
             src={`/images/gw.JPG`}
             alt="gw"
-            layout="fill"
-            objectFit="cover"
+            fill
             className="rounded-full cursor-pointer hidden md:block"
           />
         </div>

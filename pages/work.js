@@ -16,8 +16,7 @@ const work = () => {
             <Image
               src="/images/1.png"
               alt="one"
-              layout="fill"
-              objectFit="cover"
+              fill
               className="p-2 rounded cursor-pointer"
             />
           </div>
@@ -25,8 +24,7 @@ const work = () => {
             <Image
               src="/images/2.png"
               alt="two"
-              layout="fill"
-              objectFit="cover"
+              fill
               className="p-2 rounded cursor-pointer"
             />
           </div>
@@ -34,8 +32,7 @@ const work = () => {
             <Image
               src="/images/3.png"
               alt="three"
-              layout="fill"
-              objectFit="cover"
+              fill
               className="p-2 rounded cursor-pointer"
             />
           </div>
@@ -45,8 +42,7 @@ const work = () => {
             <Image
               src="/images/1.png"
               alt="one"
-              layout="fill"
-              objectFit="cover"
+              fill
               className="p-2 rounded cursor-pointer"
             />
           </div>
@@ -54,8 +50,7 @@ const work = () => {
             <Image
               src="/images/2.png"
               alt="two"
-              layout="fill"
-              objectFit="cover"
+              fill
               className="p-2 rounded cursor-pointer"
             />
           </div>
@@ -63,8 +58,7 @@ const work = () => {
             <Image
               src="/images/3.png"
               alt="three"
-              layout="fill"
-              objectFit="cover"
+              fill
               className="p-2 rounded cursor-pointer"
             />
           </div>
